@@ -1,0 +1,27 @@
+{
+  "name": "letter-guess-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pathak-neha/letter-guess-game.git"
+  },
+  "keywords": [
+    "inquirer",
+    "request"
+  ],
+  "author": "Neha PAthak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pathak-neha/letter-guess-game/issues"
+  },
+  "homepage": "https://github.com/pathak-neha/letter-guess-game#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "request": "^2.88.0"
+  }
+}
